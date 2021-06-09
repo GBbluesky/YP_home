@@ -1,3 +1,8 @@
+.introduce {
+    background: none;
+    background-color: #ff6470
+}
+
 @media all and (max-width:767px) {
     .introduce{
         display: flex; 

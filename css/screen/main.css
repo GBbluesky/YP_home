@@ -21,8 +21,7 @@
 
 
 main {
-    background-color: #ff6470;
-    background-image: url("../../image/background.png");
+    background-image: url("../../image/background.png"), url("../../image/background-sub.jpg");
     background-size: 100%;
     display: flex;
     flex-direction: column;
