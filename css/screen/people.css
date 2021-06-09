@@ -1,4 +1,4 @@
-@media all and (min-width:480px) {
+@media all and (max-width:767px) {
     .introduce{
         display: flex; 
     }
@@ -34,7 +34,7 @@
     }
 }
 
-@media all and (min-width:768px) {
+@media all and (min-width:767px) {
     .introduce{
         display: flex; 
     }

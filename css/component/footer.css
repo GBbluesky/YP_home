@@ -1,5 +1,5 @@
 
-@media all and (min-width:480px) {
+@media all and (max-width:767px) {
     .down-bar {
         background-color: #1f2247 ;
         height: 150px;
@@ -26,7 +26,7 @@
     }
 }
 
-@media all and (min-width: 768px) {
+@media all and (min-width: 767px) {
     .down-bar {
         background-color: #1f2247 ;
         height: 150px;
