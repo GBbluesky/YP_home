@@ -21,6 +21,7 @@
 
 
 main {
+    background: none;
     background-image: url("../../image/background.png"), url("../../image/background-sub.jpg");
     background-size: 100%;
     width: 100%;
