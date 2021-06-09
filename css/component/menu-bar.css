@@ -10,8 +10,8 @@
     }
 
     .upper-bar__logo img {
-        width: 80px;
-        height: 80px;
+        width: 70px;
+        height: 70px;
         display: block;
     }
 
@@ -28,7 +28,7 @@
     }
 
     .upper-bar__name img {
-        width: 200px;
+        width: 180px;
     }
     .upper-bar__menu {
         flex:1;
