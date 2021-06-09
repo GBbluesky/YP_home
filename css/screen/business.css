@@ -9,12 +9,13 @@
     line-height: 1.5;
     border-top: 1px solid #CCC;
     margin: 20px 10px;
+    color: #ffffff;
 }
 
 
 .intro__table__body th {
-    width: 20vw;
-    padding: 20px;
+    width: 25vw;
+    padding: 15px;
     font-family: 's-core-dream-bold', sans-serif !important;
     color: #2e363e;
     border-bottom: 1px solid #ccc;
@@ -22,6 +23,11 @@
 
 .intro__table__sub {
     padding: 20px;
-    width: 80vw;
+    width: 75vw;
     border-bottom: 1px solid #ccc;
+}
+
+.intro__pic {
+    margin: 30px 0;
+    padding: 20px;
 }
